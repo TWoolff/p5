@@ -1,0 +1,14 @@
+body {
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+}
+
+.size {
+    position: absolute;
+    bottom: 2rem;
+    left: 2rem;
+    padding: 0.5rem 1rem;
+    width: 15rem;
+    border: 0;
+}
